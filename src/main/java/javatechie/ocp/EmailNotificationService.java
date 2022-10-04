@@ -11,5 +11,7 @@ public class EmailNotificationService implements NotificationService {
     public void sendTransactionReport(String medium) {
         //send email logic
     }
+
+
 }
 

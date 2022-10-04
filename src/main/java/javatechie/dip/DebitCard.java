@@ -1,5 +1,7 @@
 package javatechie.dip;
 
+import javatechie.dip.solution.BankCard;
+
 public class DebitCard implements BankCard {
 
     @Override
