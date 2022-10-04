@@ -4,7 +4,7 @@ public class ShoppingMall {
 
   //  private DebitCard debitCard; //ShoppingMall depends on DebitCard
 
-    BankCard bankCard;
+    private final BankCard bankCard;
 
     public ShoppingMall(BankCard bankCard) {
         this.bankCard = bankCard;
